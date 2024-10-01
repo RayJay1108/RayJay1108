@@ -7,3 +7,8 @@
       <li> 📫 You can contact me via email: <a> raymond.vargas@edu.sait.ca </a>
       <li> 🌎 Linkedln: <a href="https://www.linkedin.com/in/raymond-vargas-77145a328/">Linkedln Profile</a>
       <li> 📚 Portfolio: 
+ <h3>My Skills</h3>
+    <li>✏️Drawings and Illustrations
+    <li>🗣️Communication. 
+    <li>🤝Group Work. 
+
